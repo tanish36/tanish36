@@ -8,6 +8,10 @@
 
 <p align="left"> <a href="https://twitter.com/tanish36" target="blank"><img src="https://img.shields.io/twitter/follow/tanish36?logo=twitter&style=for-the-badge" alt="tanish36" /></a> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tanish36" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanish36" height="30" width="40" /></a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,16 +30,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
