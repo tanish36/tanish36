@@ -26,9 +26,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     4 hrs 9 mins    █████████████████████░░░░   84.30 % 
-YAML       35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Makefile   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Python     3 hrs 31 mins   ███████████████████████▓░   94.86 % 
+Makefile   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 <!--END_SECTION:waka-->
 
