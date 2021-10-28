@@ -26,9 +26,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python     5 hrs 59 mins   ████████████████████████░   96.00 % 
-Makefile   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-Docker     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Python   4 hrs 53 mins   ████████████████████████▓   98.46 % 
+Docker   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 <!--END_SECTION:waka-->
 
