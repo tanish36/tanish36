@@ -26,8 +26,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       5 hrs 20 mins   █████████████████████████   99.47 % 
-Docker       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Python       4 hrs 18 mins   █████████████████████████   99.74 % 
 ```
 <!--END_SECTION:waka-->
 
